@@ -1,0 +1,10 @@
+gunicorn 
+psycopg2
+Flask
+Werkzeug
+Flask-Bootstrap
+Flask-Script
+Flask-WTF
+Flask-Sqlalchemy
+WTForms
+Flask-Login
